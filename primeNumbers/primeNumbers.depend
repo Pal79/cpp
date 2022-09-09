@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662714128 source:/home/grunghar/cpp/primeNumbers/main.cpp
+	"prime.h"
+
+1662714758 /home/grunghar/cpp/primeNumbers/prime.h
+	<iostream>
+	<string>
+	<cmath>
+
+1662713932 source:/home/grunghar/cpp/primeNumbers/prime.cpp
+	"prime.h"
+
